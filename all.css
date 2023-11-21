@@ -493,3 +493,7 @@ table {
       margin-top: 0px;
     }
   }
+
+  .d-block{
+    display:block;
+  }
